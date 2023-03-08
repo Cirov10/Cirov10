@@ -14,8 +14,7 @@
 [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://sujeitoprogramador.com)
 [![jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)](https://sujeitoprogramador.com)
 
-
-![Cirov10 GitHub stats](https://github-readme-stats.vercel.app/api?username=Cirov10&theme=radical)
+)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Cirov10/github-readme-stats)
 
