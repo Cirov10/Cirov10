@@ -19,7 +19,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Cirov10/github-readme-stats)
 
 
-### Olá, sou o Ciro! 
 Tudo bom? 
 
 Seja bem vindo. 👨🏽‍💻
